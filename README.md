@@ -1,6 +1,6 @@
-### interbattles / devin / wavtrades 😺
+# interbattles / devin / wavtrades 😺
 
-# projects 🦕
+## projects 🦕
 - encryption trade bot
 - bloxroll
 - untitled ally bot
