@@ -1,5 +1,5 @@
 # interbattles / devin / wavtrades 😺
-brain worms 14 year old with way too much time;
+brain worms 15 year old with way too much time;
 
 ## projects 🦕
 - encryption trade bot
