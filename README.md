@@ -8,4 +8,4 @@ brain worms 15 year old with way too much time;
 - tzech.co hourly stats
 - a zillion other silly programs
 
-<img src="https://bigrat.monster/">
+<img src="https://bigrat.monster/media/bigrat.jpg">
