@@ -1,11 +1,14 @@
-# interbattles / devin / wavtrades 😺
-brain worms 15 year old with way too much time;
-
-## projects 🦕
-- encryption trade bot
-- bloxroll
-- untitled ally bot
-- tzech.co hourly stats
-- a zillion other silly programs
-
-<img src="https://bigrat.monster/media/bigrat.jpg">
+## devin 😼
+- i am bad at code 😼😼
+---
+### projects 🦕
+- starship.fish
+- my dotfiles
+- uhhh
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=interbattles&theme=dark&show_icons=true" alt="stats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interbattles&layout=compact&theme=dark" alt="top-langs" />
+</p>
